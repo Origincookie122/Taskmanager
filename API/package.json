@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  },
+  "name": "taskmanager-api",
+  "version": "0.0.1",
+  "description": "API For the taskmanager program",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx run start::dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Origincookie122/Taskmanager.git"
+  },
+  "author": "origincookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Origincookie122/Taskmanager/issues"
+  },
+  "homepage": "https://github.com/Origincookie122/Taskmanager#readme"
+}
